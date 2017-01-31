@@ -1,5 +1,4 @@
-## Project - AngularJS - landing page
-It's one-week project of Ignite AngularJS courses block. All dynamic of landing page (KET psd template) realized at angularJS. Bootstrap 3 grid system used to make page responsive.
+## Demo landing page application with anuglarJS logic
 
 * Link to result: https://ozadev.github.io/project-angular-landing
 * Link to psd template: https://github.com/ozadev/project-angular-landing/tree/gh-pages/task/template.psd
