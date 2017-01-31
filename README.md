@@ -1,4 +1,4 @@
-## Demo landing page application with anuglarJS logic
+## Demo landing page application with angularJS logic
 
 ##Задача 
 * Создание сайта-портфолио веб-студии по предоставленному psd макету. 
