@@ -1,9 +1,5 @@
 ## Demo landing page application with anuglarJS logic
 
-* Link to result: https://ozadev.github.io/project-angular-landing
-* Link to psd template: https://github.com/ozadev/project-angular-landing/tree/gh-pages/task/template.psd
-* Link to course material: https://github.com/ozadev/ignite/tree/master/AngularJS
-
 ##Задача 
 * Создание сайта-портфолио веб-студии по предоставленному psd макету. 
 
